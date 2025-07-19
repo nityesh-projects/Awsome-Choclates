@@ -7,6 +7,7 @@ This Power BI dashboard empowers **data-driven decision-making** by providing a 
 - 📈 **Profitability Metrics** – Assess profit margins by product and salesperson.
 
 ![Chocolate Dashboard](./Screenshots/Dashboard_image.jpg)
+![Chocolate Dashboard](./Screenshots/Data Model.jpg)
 
 ## 🧠 Key Features
 - **Comparative Trend Analysis** – Compare current fiscal year sales and shipment volume to the previous year.

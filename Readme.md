@@ -42,7 +42,7 @@ The Power BI report includes a single-page interactive dashboard with the follow
 This dashboard enables a comprehensive understanding of chocolate product sales performance across multiple dimensions.
 
 ![Treemap View](./Screenshots/Treemap.jpg)
-
+![Data Model](./Screenshots/Data%20Model.jpg)
 ---
 
 ## 🎯 Key Business Questions Answered
@@ -66,8 +66,7 @@ These insights support actionable decisions in product strategy, sales optimizat
 - **DAX (Data Analysis Expressions)** -   Used for custom calculations and metrics. Key DAX functions include:
   - `CALCULATE` – Modifies or adjusts the filter context for measures (e.g., calculating profit % or applying conditional filters).
   - `SAMEPERIODLASTYEAR` – Enables year-over-year comparisons for time-based data.
-
-DIVIDE – Used for safe division (avoids division-by-zero errors).
+  - 'DIVIDE' – Used for safe division (avoids division-by-zero errors).
 - **Power Query Editor** – For data transformation and cleansing.
 - **Visualizations Used**:
   - Line charts
